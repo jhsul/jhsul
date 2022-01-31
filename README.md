@@ -1,4 +1,5 @@
-### Hi there 👋
+### Jack Sullivan
+I am a software developer interested in creating useful, accessible web technologies. See some of my work here on GitHub 😊
 
 <!--
 **jhsul/jhsul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
